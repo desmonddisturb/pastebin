@@ -1,4 +1,0 @@
-pastebin
-========
-
-pastebin
